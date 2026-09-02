@@ -8,38 +8,19 @@
 using namespace std;
 
 const int minimoAdulto = 18;
-const string nombre = "Pedrosky Rey del Trosky";
-
-vector<string> listaNombres;
-
+const string nombre = "Pedrosky Rey del Trosky"; // VARIABLE CONSTANTE
 
 int generarAleatorio(int minimo, int maximo);
-
 int generadorNumberCordenada();
-
 string intervaloEdad(int edad);
-
-void imprimirCreacion(
-int x,
-int y,
-string rango,
-int edad,
-string rut,
-string nombreAleatorio
-);
-
-void generadorPersonajes(int cantidad);
-
-void lecturaArchivos();
-
+void imprimirCreacion(int x,int y,string rango,int edad,string rut,string nombreAleatorio);
+void generadorPersonajes(int cantidad); 
+void lecturaArchivos(); //Por el momento no lo utilizaremos 
 string generarNombreAleatorio();
 
 
-int main()
-{
+int main(){
 int cantidadGeneraciones = 0;
-
-lecturaArchivos();
 
 cout << "Hola, Bienvenido al Generador de usuarios\n";
 cout << "Introduce cantidad de Personajes a Generar: ";
@@ -49,36 +30,6 @@ cin >> cantidadGeneraciones;
 generadorPersonajes(cantidadGeneraciones);
 
 return 0;
-}
-
-
-void lecturaArchivos()
-{
-ifstream archivo("nombres.txt");
-
-if (!archivo.is_open())
-{
-    cout << "ERROR: No se pudo abrir nombres.txt" << endl;
-    return;
-}
-
-string linea;
-
-while (getline(archivo, linea))
-{
-    stringstream ss(linea);
-
-    string nombre;
-
-    getline(ss, nombre, ',');
-
-    if (!nombre.empty())
-    {
-        listaNombres.push_back(nombre);
-    }
-}
-
-archivo.close();
 }
 
 
@@ -157,19 +108,12 @@ cout << "====================================" << endl;
 
 string generarNombreAleatorio()
 {
-if (listaNombres.empty())
-{
-    return "SIN NOMBRE";
+    if (true)
+    {
+        return "SIN NOMBRE";
+    }
+
 }
-
-int posicion = generarAleatorio(
-    0,
-    static_cast<int>(listaNombres.size()) - 1
-);
-
-return listaNombres[posicion];
-}
-
 
 int generadorNumberCordenada()
 {
@@ -185,4 +129,27 @@ static mt19937 generador(semilla());
 uniform_int_distribution<int> rango(minimo, maximo);
 
 return rango(generador);
+}
+
+void lecturaArchivos()
+{
+    ifstream archivo("nombres.txt");
+
+    if (!archivo.is_open()) {
+        cout << "ERROR: No se pudo abrir nombres.txt" << endl;
+        return;
+    }
+
+    string linea;
+
+    while (getline(archivo, linea))
+    {
+        stringstream ss(linea);
+
+        string nombre;
+
+        getline(ss, nombre, ',');
+    }
+
+    archivo.close();
 }

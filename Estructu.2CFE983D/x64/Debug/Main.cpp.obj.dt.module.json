@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Estructu.2CFE983D\\x64\\Debug\\Main.obj",
+            "outputs": [
+                "Estructu.2CFE983D\\x64\\Debug\\Main.cpp.obj.dt.module.json",
+                "Estructu.2CFE983D\\x64\\Debug\\Main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
