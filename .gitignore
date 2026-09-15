@@ -1,0 +1,26 @@
+# Compilacion y binarios
+*.o
+*.obj
+*.out
+*.app
+
+# Archivos de depuracion y temporales
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# Carpetas de IDE
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Sistema Operativo
+Thumbs.db
+.DS_Store
