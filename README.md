@@ -11,6 +11,7 @@ El contenido está modularizado en carpetas temáticas independientes. Cada carp
 ### 📚 Guías Centrales de Evaluación
 * 🎯 [**Contenidos y Preparación para la Prueba 1**](Prueba_1/README.md)
 * 🎯 [**Contenidos y Preparación para la Prueba 2**](Prueba_2/README.md)
+* 📌 [**Glosario y Tarjeta de Referencia Rápida de Sintaxis C++**](GLOSARIO_SINTAXIS.md)
 * 📖 [**Material y Ejercicios Prácticos del Curso**](CodigoFuncionesAprenderYUtilizar/README.md)
 
 ---
