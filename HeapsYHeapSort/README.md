@@ -1,8 +1,9 @@
 # Unidad 09: Heaps (Montículos), Colas de Prioridad y HeapSort en C++
 
-Un **Heap** (o montículo binario) es un árbol binario casi completo que satisface la **propiedad de orden de heap**. Aunque conceptualmente es un árbol, se almacena eficientemente dentro de un simple arreglo contiguo sin necesidad de punteros explícitos.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Mapeo de Árbol Completo a Arreglo](#1-mapeo-de-árbol-completo-a-arreglo)

@@ -1,8 +1,9 @@
 # Unidad 14: Matrices Poco Pobladas (Sparse Matrices) en C++
 
-Una **Matriz Poco Poblada** (*Sparse Matrix*) es aquella en la que la gran mayoría de sus celdas contienen el valor cero (o nulo). Almacenarla en una matriz bidimensional tradicional `M[N][M]` desperdicia memoria de forma crítica ($O(N \cdot M)$).
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Definición y Justificación](#1-definición-y-justificación)

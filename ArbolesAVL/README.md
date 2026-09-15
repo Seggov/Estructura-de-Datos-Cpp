@@ -1,8 +1,9 @@
 # Unidad 08: Árboles Balanceados AVL en C++
 
-El **Árbol AVL** (nombrado así en honor a sus inventores Adelson-Velsky y Landis) es un Árbol Binario de Búsqueda auto-balanceable. Garantiza que la altura del árbol sea siempre $O(\log n)$, eliminando por completo el riesgo de degeneración a lista enlazada.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [El Problema del ABB Simple y la Solución AVL](#1-el-problema-del-abb-simple-y-la-solución-avl)

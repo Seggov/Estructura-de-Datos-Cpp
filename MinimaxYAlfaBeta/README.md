@@ -1,8 +1,9 @@
 # Unidad 13: Algoritmo Minimax y Poda Alfa-Beta en C++
 
-En la teoría de juegos y estructuras de datos para inteligencia artificial, los árboles de juego modelan decisiones en juegos de dos jugadores por turnos de suma cero e información perfecta (como Tres en Línea, Ajedrez, Damas o Conecta 4).
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [El Árbol de Juego: MAX vs MIN](#1-el-árbol-de-juego-max-vs-min)

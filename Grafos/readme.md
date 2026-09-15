@@ -1,8 +1,9 @@
 # Unidad 11: Fundamentos y Representación de Grafos en C++
 
-Un **Grafo** $G = (V, E)$ es una estructura de datos no lineal compuesta por un conjunto de **Vértices** o Nodos ($V$) y un conjunto de **Aristas** o Conexiones ($E$). A diferencia de los árboles, los grafos no tienen una raíz predeterminada y pueden contener ciclos.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Terminología Formal](#1-terminología-formal)

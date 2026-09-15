@@ -1,8 +1,9 @@
 # Unidad 07: Árboles Binarios y Árboles Binarios de Búsqueda (ABB) en C++
 
-Los árboles son estructuras de datos jerárquicas y no lineales. Un **Árbol Binario** restringe a cada nodo a tener como máximo dos hijos: hijo izquierdo e hijo derecho.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Terminología Esencial de Árboles](#1-terminología-esencial-de-árboles)

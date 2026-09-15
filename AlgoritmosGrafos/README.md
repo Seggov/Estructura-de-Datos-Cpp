@@ -1,8 +1,9 @@
 # Unidad 12: Algoritmos Fundamentales en Grafos
 
-Esta unidad contiene los algoritmos clásicos de recorrido, optimización de caminos y árboles de expansión mínima que constituyen el núcleo de la evaluación práctica de Grafos.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Búsqueda en Profundidad (DFS - Depth First Search)](#1-búsqueda-en-profundidad-dfs---depth-first-search)

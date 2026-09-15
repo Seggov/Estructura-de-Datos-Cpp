@@ -1,8 +1,9 @@
 # Unidad 10: Algoritmos Avanzados en Árboles Binarios
 
-Esta unidad agrupa los algoritmos más frecuentes y evaluados en certámenes respecto al procesamiento, reconstrucción y validación de árboles binarios.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Recorrido por Niveles (BFS con Cola)](#1-recorrido-por-niveles-bfs-con-cola)
