@@ -1,8 +1,9 @@
 # Unidad 02: Lectura y Escritura de Archivos en C++
 
-La persistencia de datos y la carga de información desde archivos de texto (`.txt`, `.csv`) son esenciales en la asignatura de Estructura de Datos para poblar estructuras complejas (listas, árboles, grafos) a partir de datasets reales sin tener que escribir datos a mano en el código.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Librerías y Flujos: `<fstream>`](#1-librerías-y-flujos-fstream)

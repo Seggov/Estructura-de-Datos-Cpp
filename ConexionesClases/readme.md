@@ -1,8 +1,9 @@
 # Unidad 03: Programación Orientada a Objetos y Conexiones entre Clases en C++
 
-En Estructura de Datos, la Programación Orientada a Objetos (POO) permite encapsular la complejidad interna de las estructuras (nodos, punteros de control, balanceo) y ofrecer al usuario una interfaz limpia y segura (`insertar()`, `eliminar()`, `buscar()`).
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Clases vs Structs en C++](#1-clases-vs-structs-en-c)

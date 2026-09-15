@@ -1,8 +1,9 @@
 # Unidad 06: Pilas (Stacks) y Colas (Queues) en C++
 
-Las Pilas y las Colas son **Tipos Abstractos de Datos (TAD)** lineales con restricciones de acceso: no permiten insertar o eliminar elementos en posiciones arbitrarias, sino únicamente por sus extremos.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Pila (Stack) - Principio LIFO](#1-pila-stack---principio-lifo)

@@ -1,8 +1,9 @@
 # Unidad 04: Complejidad Algorítmica y Notación Asintótica
 
-La complejidad algorítmica permite evaluar la eficiencia de un algoritmo de manera teórica e independiente del hardware o del lenguaje de programación, analizando cómo crecen el tiempo de ejecución y el consumo de memoria a medida que el tamaño de la entrada ($n$) tiende a infinito.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Notaciones Asintóticas: $O$, $\Omega$ y $\Theta$](#1-notaciones-asintóticas-o-omega-y-theta)

@@ -1,8 +1,9 @@
 # Unidad 05: Nodos y Listas Enlazadas en C++
 
-Las listas enlazadas son la primera estructura de datos dinámica no contigua. A diferencia de los arreglos estáticos o dinámicos (`std::vector`), los elementos de una lista enlazada están dispersos en el Heap y unidos exclusivamente a través de punteros.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [El Concepto de Nodo](#1-el-concepto-de-nodo)

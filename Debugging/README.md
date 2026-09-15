@@ -1,8 +1,9 @@
 # Unidad 00: Herramientas y Técnicas de Debugging en C++
 
-La depuración (*debugging*) es una habilidad indispensable en Estructura de Datos. La mayoría de los errores en este curso no son de lógica matemática simple, sino de **violación de memoria**, punteros nulos o desbordamiento de búfer.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Banderas Esenciales del Compilador (GCC / Clang)](#1-banderas-esenciales-del-compilador-gcc--clang)

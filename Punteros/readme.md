@@ -1,8 +1,9 @@
 # Unidad 01: Punteros, Referencias y Memoria Dinámica en C++
 
-Bienvenido a la unidad de **Punteros y Gestión de Memoria**. Este es el pilar fundamental de toda la asignatura de Estructura de Datos: sin entender punteros, no es posible comprender listas enlazadas, árboles ni grafos.
+> 📍 **Navegación:** [🏠 Menú Principal](../README.md) \| [📘 Guía Prueba 1](../Prueba_1/README.md) \| [📙 Guía Prueba 2](../Prueba_2/README.md)
 
 ---
+
 
 ## Índice
 1. [Concepto de Memoria: Stack vs Heap](#1-concepto-de-memoria-stack-vs-heap)
